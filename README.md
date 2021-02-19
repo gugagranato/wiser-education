@@ -20,6 +20,8 @@ For login in the application, use this user
     "password": "cityslicka"
 }
 ```
+
+This application is deployed in: https://wiser-education.netlify.app/
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
